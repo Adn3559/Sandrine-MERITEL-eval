@@ -1,0 +1,24 @@
+=========================================
+   AUDIT SERVEUR - 2026-05-27 11:46:10
+=========================================
+
+📁 Dossier analysé  : webstudio
+
+📊 STATISTIQUES
+  Nombre de fichiers  : 19
+  Nombre de dossiers  : 7
+  Taille totale       : 4.0K
+  Fichiers vides      : 13
+
+📂 TOP 3 EXTENSIONS
+      4 csv
+      3 sh
+      3 pdf
+
+🔒 FICHIERS SENSIBLES DÉTECTÉS
+  webstudio/configs/api.conf  (contient : API_KEY)
+  webstudio/configs/app.conf  (contient : DB_HOST)
+
+=========================================
+   FIN DU RAPPORT
+=========================================
